@@ -52,11 +52,11 @@ Tập dữ liệu gồm các cột và ý nghĩa mỗi cột như sau:
 - America: GEN
 - Europe: GBC
 - Japan: NES 
-- Other: PS4
+- Other: PS4<br>
 Nếu bạn là nhà phát hành/phát triển mới, nên lựa chọn platform ưa thích của từng khu vực.
 4. Thị trường video game bùng nổ nhất vào năm 2010-2011, lúc đó doanh số toàn cầu ghi nhận là hơn 200 triệu bản, sau giai đoạn đó giảm mạnh đến 2020. 
 - Sau 2020 không có data nên không khẳng định được, nhưng có thể đoán được thị trường video game giảm mạnh đến vậy do sự phát triển của điện thoại, laptop, dần dần video game sẽ tốn kém hơn nhiều so với các game trên app hay trên web. Tuy nhiên video game vẫn luôn có chỗ đứng trong giới game thủ.
-5. Danh tiếng nhà phát hành và nhà phát triển hay platform của game hay năm phát triển chỉ giải thích được 25% cho doanh số bán ra, trong đó danh tiếng của nhà phát triển chiếm vị trí quan trọng nhất 75% còn lại có thể thuộc về những phần không có trong dataset này như thể loại game, kinh phí marketing, ...
+5. Danh tiếng nhà phát hành và nhà phát triển hay platform của game hay năm phát triển chỉ giải thích được 25% cho doanh số bán ra, trong đó danh tiếng của nhà phát triển chiếm vị trí quan trọng nhất, 75% còn lại có thể thuộc về những phần không có trong dataset này như thể loại game, kinh phí marketing, ...
 
 # 5. File structure explanation
 - Thư mục data: Lưu dữ liệu gốc và dữ liệu đã tiền xử lí
@@ -72,7 +72,7 @@ Nếu bạn là nhà phát hành/phát triển mới, nên lựa chọn platform
 
 1. **Clone repository**
    ```
-   git clone https://github.com/yourusername/LTKHDL-GameDataset.git
+   git clone https://github.com/chichic21039/LTKHDL-GameDataset.git
    cd LTKHDL-GameDataset
    ```
 
